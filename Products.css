@@ -1,0 +1,34 @@
+
+.t12-cont{
+    border:3px solid whitesmoke;
+}
+
+.row{
+    border:3px solid dodgerblue;
+
+}
+
+.col{
+    border:3px solid black;     
+}
+.btn0{
+    background-color: red;
+    font-weight: bold;
+    height: 45px;
+    width:150px;
+    color:white;
+    outline:none;
+    border:none;
+    text-align: center;
+}
+.btn0:hover{
+    background-color: gold;
+    color: red;
+    transition:0.3s; 
+}
+.col span{
+    color: saddlebrown;
+    font-size: 19px;
+    font-weight: 800;
+    padding-left: 5px;
+}

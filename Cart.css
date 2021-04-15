@@ -1,0 +1,40 @@
+.nav-link{
+    color:sandybrown;
+    font-weight: 600;
+}
+.navbar-brand{
+    color:gold;
+    font-size: 30px;
+    font-weight: 800;
+}
+.t6-cont{
+    margin: 80px auto;
+}
+.t6.row{
+    width: 100%;
+    border-collapse: collapse;
+}
+.t3-col{
+    display:flex;
+    flex-wrap: wrap;
+}
+.t6-col{
+    text-align: left;
+    padding: 5px;
+    color:black;
+    background: saddlebrown;
+    font-weight: normal;
+}
+.t1-col{
+    padding: 10px 5px;
+}
+.t1-col input{
+    width: 40px;
+    height:30px;
+    padding:5px;
+}
+.t3-col img{
+    width:80px;
+    height:80px;
+    margin-right:10px;
+}
